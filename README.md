@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+First run the Json-server with command= json-server db.json --port 8080 --watch
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
