@@ -1,9 +1,9 @@
 import './App.css';
-
+import { DetailForm } from './components/EmployeeForm/Details';
 function App() {
   return (
     <div className="App">
-     hello
+     <DetailForm/>
     </div>
   );
 }
